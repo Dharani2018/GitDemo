@@ -13,4 +13,7 @@ public class Util {
 		System.out.println("Util.m1():.........abcd.....12345");
 		System.out.println("another case");
 	}
+	public void m2() {
+		System.out.println("Util.m2()");
+	}
 }
