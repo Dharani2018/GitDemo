@@ -16,4 +16,7 @@ public class Util {
 	public void m2() {
 		System.out.println("Util.m2()");
 	}
+	public void m4() {
+		System.out.println("Util.m4()");
+	}
 }
