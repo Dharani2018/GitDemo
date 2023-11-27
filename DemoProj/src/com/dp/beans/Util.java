@@ -19,4 +19,7 @@ public class Util {
 	public void m4() {
 		System.out.println("Util.m4()");
 	}
+	public void m3() {
+		System.out.println("Util.m3()");
+	}
 }
